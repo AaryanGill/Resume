@@ -17,7 +17,7 @@ link - https://super-caramel-fc7a82.netlify.app/
 README.md - This filr
 
 
-🚀 Featured Projects
+🚀 Featured Projects - 
 
 Here are some of the projects included in my resume:
 
