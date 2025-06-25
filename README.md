@@ -10,7 +10,7 @@ I'm a passionate and self-motivated aspiring software engineer with experience i
 
 📂 Contents
 
-Resume.pdf – My up-to-date resume
+Aaryan_Gill_Portfolio.pdf – My up-to-date resume
 
 link : https://super-caramel-fc7a82.netlify.app/
 
