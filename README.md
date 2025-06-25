@@ -10,7 +10,7 @@ I'm a passionate and self-motivated aspiring software engineer with experience i
 
 📂 Contents
 
-Aaryan_Gill_Resume.pdf – My up-to-date resume
+Resume.pdf – My up-to-date resume
 
 link : https://super-caramel-fc7a82.netlify.app/
 
@@ -42,12 +42,6 @@ Concepts: OOP, DOM Manipulation, Basic DSA
 Feel free to connect with me:
 
 📧 Email: [aaryangill066@gmail.com]
-
-💼 LinkedIn: linkedin.com/in/yourprofile
-
-🧑‍💻 GitHub: github.com/yourusername
-
-
 
 ---
 
